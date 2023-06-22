@@ -1,5 +1,8 @@
 _repo: Kuusi-pilapuhetta-huvi-iltain-ratoksi_70931
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Korhonen, Heikki
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45775
     wikipedia: https://fi.wikipedia.org/wiki/Heikki_Korhonen_(kirjailija)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70931#Kuusi-pilapuhetta-huvi-iltain-ratoksi
 gutenberg_issued: '2023-06-07'
 identifiers:
   gutenberg: '70931'
